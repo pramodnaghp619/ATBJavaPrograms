@@ -19,7 +19,7 @@ public class task4 {
                 prime_number = prime_number + i + " ";
             }
         }
-        System.out.println("Prime numbers from 1 to 100 are :");
+        System.out.println("Prime number from 1 to 100 are :");
         System.out.println(prime_number);
     }
 }
