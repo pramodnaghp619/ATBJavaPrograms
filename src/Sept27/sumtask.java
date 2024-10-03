@@ -7,8 +7,9 @@ public class sumtask {
         int num =0;
         while(i<=100){
             num=num+i;
-            System.out.println(num);
+           // System.out.println(num);
             i++;
         }
+        System.out.println(num);
     }
 }
