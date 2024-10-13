@@ -17,6 +17,10 @@ public class task1 {
        ATBstudent nag3 = new ATBstudent();
        nag3.study();
 
+        System.out.println(nag1);
+        System.out.println(nag2);
+        System.out.println(nag3);
+
 
     }
 }
